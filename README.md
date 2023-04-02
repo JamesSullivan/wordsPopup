@@ -20,6 +20,10 @@ Select `Count and highlight target words via content-script.js`
 The pop up will show the word counts in the pop up window. After clicking OK the target words will be highlighted in yellow.
 
 
+
+Select `Copy a query for ChatGPT into the clipboard using Inject function in popup.js`
+The pop up will copy a query for ChatGPT based on the article. You will need to manually paste the query into ChatGPT as the OpenAI API is behind a pay wall.
+
 ## References
 - [reference.mv3-content-scripts](https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples/reference.mv3-content-scripts)
 - [tutorial.reading-time](https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples/tutorial.reading-time)
